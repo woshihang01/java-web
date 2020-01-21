@@ -20,7 +20,7 @@
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
-			<version>5.1.4.RELEASE</version>
+			<version>5.2.0.RELEASE</version>
 		</dependency>
 		<!-- 数据校验JSR303 -->
 		<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-validator -->
